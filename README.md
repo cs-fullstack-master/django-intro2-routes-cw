@@ -17,6 +17,9 @@ Add the following endpoints and responses:
 * ```gogetthegood/``` that returns ```Here you go!``` along with with something that matters to you (e.g. ```Here you go! Matching Socks!```)
 * ```happyhappyjoyjoy/``` that returns the whatever that means to you (e.g. ```Ren & Stimpy FOREVER!```)
 
+CHALLENGE:
+Add an endpoint/route that accepts a string as a parameter. Parse out the string and echo back to the User with the text ```I heard you !```
+
 
 
 
